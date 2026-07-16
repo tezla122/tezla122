@@ -27,7 +27,7 @@
 
 ---
 
-## who I am
+## Who am I 
 
 I study **Computer Engineering** and **Finance & Banking** at the same time — not as a hedge, but because the problems I care about live where both meet.
 
@@ -54,12 +54,11 @@ I'm here for that triangle.
 
 ## off the clock
 
-| | |
-|:--|:--|
-| ♔ **chess** 
-| 🏈 **american football** 
-| 🐝 **beekeeping** 
-| 🌱 **gardening** 
+
+ ♔ **chess** 
+ 🏈 **american football** 
+ 🐝 **beekeeping** 
+ 🌱 **gardening** 
 
 
 
