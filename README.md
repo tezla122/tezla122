@@ -40,32 +40,7 @@ I'm here for that triangle.
 | **FPGA / digital design** | parallel pipelines, HDL, moving logic closer to the wire |
 | **applied mathematics** | models that survive contact with reality |
 
----
 
-## the dual-degree loop
-
-```text
-        ┌──────────────┐
-        │   markets    │
-        │  (finance)   │
-        └──────┬───────┘
-               │  what to compute
-               ▼
-        ┌──────────────┐
-        │    math      │
-        │  (models)    │
-        └──────┬───────┘
-               │  how to compute
-               ▼
-        ┌──────────────┐
-        │   hardware   │
-        │   (FPGA)     │
-        └──────────────┘
-```
-
-Two faculties. One obsession: **make quantitative ideas run fast and correctly**.
-
----
 
 ## currently exploring
 
@@ -81,12 +56,12 @@ Two faculties. One obsession: **make quantitative ideas run fast and correctly**
 
 | | |
 |:--|:--|
-| ♔ **chess** | long games, quiet calculation, one move that changes the board |
-| 🏈 **american football** | structure, timing, and commitment under pressure |
-| 🐝 **beekeeping** | colonies as living systems — patience optional, observation not |
-| 🌱 **gardening** | plant something, wait, debug soil instead of synthesis |
+| ♔ **chess** 
+| 🏈 **american football** 
+| 🐝 **beekeeping** 
+| 🌱 **gardening** 
 
-Same pattern everywhere: observe → model → act → adjust.
+
 
 ---
 
