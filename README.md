@@ -42,7 +42,7 @@ I'm here for that triangle.
 
 
 
-## currently exploring
+## Currently exploring
 
 - low-latency / hardware-aware approaches to market data & order logic  
 - FPGA pipelines and the ugly-beautiful details of real timing  
@@ -52,7 +52,7 @@ I'm here for that triangle.
 
 ---
 
-## off the clock
+## Off the clock
 
 
  ♔ **chess** 
@@ -64,7 +64,7 @@ I'm here for that triangle.
 
 ---
 
-## connect
+## Connect
 
 <div align="center">
 
